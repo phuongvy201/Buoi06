@@ -1,0 +1,11 @@
+D:\Buoi06_Database\obj\Debug\Buoi06_Database.csproj.AssemblyReference.cache
+D:\Buoi06_Database\obj\Debug\Buoi06_Database.Form1.resources
+D:\Buoi06_Database\obj\Debug\Buoi06_Database.Properties.Resources.resources
+D:\Buoi06_Database\obj\Debug\Buoi06_Database.csproj.GenerateResource.cache
+D:\Buoi06_Database\obj\Debug\Buoi06_Database.csproj.CoreCompileInputs.cache
+D:\Buoi06_Database\bin\Debug\Buoi06_Database.exe.config
+D:\Buoi06_Database\bin\Debug\Buoi06_Database.exe
+D:\Buoi06_Database\bin\Debug\Buoi06_Database.pdb
+D:\Buoi06_Database\obj\Debug\Buoi06_Database.exe
+D:\Buoi06_Database\obj\Debug\Buoi06_Database.pdb
+D:\Buoi06_Database\obj\Debug\Buoi06_Database.frmKhoa.resources
